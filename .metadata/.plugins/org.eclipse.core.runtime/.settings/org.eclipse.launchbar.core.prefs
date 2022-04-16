@@ -1,0 +1,14 @@
+LaunchTargetManager/configs/Hola\ mundo.exe=org.eclipse.launchbar.core.launchTargetType.local\:Local
+LaunchTargetManager/configs/Holamundo.exe=org.eclipse.launchbar.core.launchTargetType.local\:Local
+LaunchTargetManager/configs/tp1_laboratorio.exe=org.eclipse.launchbar.core.launchTargetType.local\:Local
+LaunchTargetManager/org.eclipse.launchbar.core.launchTargetType.local,Local/arch=x86_64
+LaunchTargetManager/org.eclipse.launchbar.core.launchTargetType.local,Local/name=Local
+LaunchTargetManager/org.eclipse.launchbar.core.launchTargetType.local,Local/os=win32
+configDescList=org.eclipse.launchbar.core.descriptorType.default\:Ejercicio2-4.exe,org.eclipse.launchbar.core.descriptorType.default\:Hola mundo.exe (1),org.eclipse.launchbar.core.descriptorType.default\:Hola mundo.exe,org.eclipse.launchbar.core.descriptorType.default\:Holamundo.exe,org.eclipse.launchbar.core.descriptorType.default\:tp1_laboratorio.exe
+eclipse.preferences.version=1
+org.eclipse.launchbar.core.descriptorType.default\:Ejercicio2-4.exe/activeLaunchMode=run
+org.eclipse.launchbar.core.descriptorType.default\:Ejercicio2-4.exe/activeLaunchTarget=org.eclipse.launchbar.core.launchTargetType.local\:Local
+org.eclipse.launchbar.core.descriptorType.default\:Hola\ mundo.exe\ (1)/activeLaunchMode=run
+org.eclipse.launchbar.core.descriptorType.default\:Hola\ mundo.exe\ (1)/activeLaunchTarget=org.eclipse.launchbar.core.launchTargetType.local\:Local
+org.eclipse.launchbar.core.descriptorType.default\:Hola\ mundo.exe/activeLaunchMode=run
+org.eclipse.launchbar.core.descriptorType.default\:Hola\ mundo.exe/activeLaunchTarget=org.eclipse.launchbar.core.launchTargetType.local\:Local

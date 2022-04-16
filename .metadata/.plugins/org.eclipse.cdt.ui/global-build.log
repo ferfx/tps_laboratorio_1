@@ -1,0 +1,609 @@
+Info: Nothing to build for tp1_laboratorio
+Info: Nothing to build for tp1_laboratorio
+02:26:36 **** Incremental Build of configuration Debug for project tp1_laboratorio ****
+Info: Internal Builder is used for build
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\tp1_laboratorio.o" "..\\src\\tp1_laboratorio.c" 
+..\src\tp1_laboratorio.c: In function 'main':
+..\src\tp1_laboratorio.c:22:8: warning: unused variable 'precioAerolineas' [-Wunused-variable]
+  float precioAerolineas;
+        ^~~~~~~~~~~~~~~~
+..\src\tp1_laboratorio.c:21:8: warning: unused variable 'precioLatam' [-Wunused-variable]
+  float precioLatam;
+        ^~~~~~~~~~~
+gcc -o tp1_laboratorio.exe "src\\tp1_laboratorio.o" 
+Info: Nothing to build for tp1_laboratorio
+02:28:34 **** Incremental Build of configuration Debug for project tp1_laboratorio ****
+Info: Internal Builder is used for build
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\tp1_laboratorio.o" "..\\src\\tp1_laboratorio.c" 
+..\src\tp1_laboratorio.c: In function 'main':
+..\src\tp1_laboratorio.c:22:8: warning: unused variable 'precioAerolineas' [-Wunused-variable]
+  float precioAerolineas;
+        ^~~~~~~~~~~~~~~~
+..\src\tp1_laboratorio.c:21:8: warning: unused variable 'precioLatam' [-Wunused-variable]
+  float precioLatam;
+        ^~~~~~~~~~~
+gcc -o tp1_laboratorio.exe "src\\tp1_laboratorio.o" 
+Info: Nothing to build for tp1_laboratorio
+02:39:43 **** Incremental Build of configuration Debug for project tp1_laboratorio ****
+Info: Internal Builder is used for build
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\tp1_laboratorio.o" "..\\src\\tp1_laboratorio.c" 
+..\src\tp1_laboratorio.c: In function 'main':
+..\src\tp1_laboratorio.c:22:8: warning: variable 'precioAerolineas' set but not used [-Wunused-but-set-variable]
+  float precioAerolineas;
+        ^~~~~~~~~~~~~~~~
+..\src\tp1_laboratorio.c:21:8: warning: variable 'precioLatam' set but not used [-Wunused-but-set-variable]
+  float precioLatam;
+        ^~~~~~~~~~~
+gcc -o tp1_laboratorio.exe "src\\tp1_laboratorio.o" 
+02:45:19 **** Incremental Build of configuration Debug for project tp1_laboratorio ****
+Info: Internal Builder is used for build
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\tp1_laboratorio.o" "..\\src\\tp1_laboratorio.c" 
+..\src\tp1_laboratorio.c: In function 'main':
+..\src\tp1_laboratorio.c:22:8: warning: variable 'precioAerolineas' set but not used [-Wunused-but-set-variable]
+  float precioAerolineas;
+        ^~~~~~~~~~~~~~~~
+..\src\tp1_laboratorio.c:21:8: warning: variable 'precioLatam' set but not used [-Wunused-but-set-variable]
+  float precioLatam;
+        ^~~~~~~~~~~
+gcc -o tp1_laboratorio.exe "src\\tp1_laboratorio.o" 
+Info: Nothing to build for tp1_laboratorio
+02:46:04 **** Incremental Build of configuration Debug for project tp1_laboratorio ****
+Info: Internal Builder is used for build
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\tp1_laboratorio.o" "..\\src\\tp1_laboratorio.c" 
+..\src\tp1_laboratorio.c: In function 'main':
+..\src\tp1_laboratorio.c:22:8: warning: variable 'precioAerolineas' set but not used [-Wunused-but-set-variable]
+  float precioAerolineas;
+        ^~~~~~~~~~~~~~~~
+..\src\tp1_laboratorio.c:21:8: warning: variable 'precioLatam' set but not used [-Wunused-but-set-variable]
+  float precioLatam;
+        ^~~~~~~~~~~
+gcc -o tp1_laboratorio.exe "src\\tp1_laboratorio.o" 
+02:52:36 **** Incremental Build of configuration Debug for project tp1_laboratorio ****
+Info: Internal Builder is used for build
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\tp1_laboratorio.o" "..\\src\\tp1_laboratorio.c" 
+..\src\tp1_laboratorio.c: In function 'main':
+..\src\tp1_laboratorio.c:51:5: warning: implicit declaration of function 'print' [-Wimplicit-function-declaration]
+     print("Cargandose todos los resultados...");
+     ^~~~~
+..\src\tp1_laboratorio.c:24:6: warning: variable 'banderaDeCarga' set but not used [-Wunused-but-set-variable]
+  int banderaDeCarga;
+      ^~~~~~~~~~~~~~
+..\src\tp1_laboratorio.c:22:8: warning: variable 'precioAerolineas' set but not used [-Wunused-but-set-variable]
+  float precioAerolineas;
+        ^~~~~~~~~~~~~~~~
+..\src\tp1_laboratorio.c:21:8: warning: variable 'precioLatam' set but not used [-Wunused-but-set-variable]
+  float precioLatam;
+        ^~~~~~~~~~~
+gcc -o tp1_laboratorio.exe "src\\tp1_laboratorio.o" 
+src\tp1_laboratorio.o: In function `main':
+C:\Users\fx\eclipse-workspace\tp1_laboratorio\Debug/../src/tp1_laboratorio.c:51: undefined reference to `print'
+collect2.exe: error: ld returned 1 exit status
+02:52:44 **** Incremental Build of configuration Debug for project tp1_laboratorio ****
+Info: Internal Builder is used for build
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\tp1_laboratorio.o" "..\\src\\tp1_laboratorio.c" 
+..\src\tp1_laboratorio.c: In function 'main':
+..\src\tp1_laboratorio.c:24:6: warning: variable 'banderaDeCarga' set but not used [-Wunused-but-set-variable]
+  int banderaDeCarga;
+      ^~~~~~~~~~~~~~
+..\src\tp1_laboratorio.c:22:8: warning: variable 'precioAerolineas' set but not used [-Wunused-but-set-variable]
+  float precioAerolineas;
+        ^~~~~~~~~~~~~~~~
+..\src\tp1_laboratorio.c:21:8: warning: variable 'precioLatam' set but not used [-Wunused-but-set-variable]
+  float precioLatam;
+        ^~~~~~~~~~~
+gcc -o tp1_laboratorio.exe "src\\tp1_laboratorio.o" 
+Info: Nothing to build for tp1_laboratorio
+04:34:06 **** Incremental Build of configuration Debug for project tp1_laboratorio ****
+Info: Internal Builder is used for build
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\tp1_laboratorio.o" "..\\src\\tp1_laboratorio.c" 
+..\src\tp1_laboratorio.c: In function 'main':
+..\src\tp1_laboratorio.c:24:6: warning: variable 'banderaDeCarga' set but not used [-Wunused-but-set-variable]
+  int banderaDeCarga;
+      ^~~~~~~~~~~~~~
+..\src\tp1_laboratorio.c:22:8: warning: variable 'precioAerolineas' set but not used [-Wunused-but-set-variable]
+  float precioAerolineas;
+        ^~~~~~~~~~~~~~~~
+..\src\tp1_laboratorio.c:21:8: warning: variable 'precioLatam' set but not used [-Wunused-but-set-variable]
+  float precioLatam;
+        ^~~~~~~~~~~
+gcc -o tp1_laboratorio.exe "src\\tp1_laboratorio.o" 
+Info: Nothing to build for tp1_laboratorio
+04:37:55 **** Incremental Build of configuration Debug for project tp1_laboratorio ****
+Info: Internal Builder is used for build
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\tp1_laboratorio.o" "..\\src\\tp1_laboratorio.c" 
+..\src\tp1_laboratorio.c: In function 'main':
+..\src\tp1_laboratorio.c:24:6: warning: variable 'banderaDeCarga' set but not used [-Wunused-but-set-variable]
+  int banderaDeCarga;
+      ^~~~~~~~~~~~~~
+..\src\tp1_laboratorio.c:22:8: warning: variable 'precioAerolineas' set but not used [-Wunused-but-set-variable]
+  float precioAerolineas;
+        ^~~~~~~~~~~~~~~~
+..\src\tp1_laboratorio.c:21:8: warning: variable 'precioLatam' set but not used [-Wunused-but-set-variable]
+  float precioLatam;
+        ^~~~~~~~~~~
+gcc -o tp1_laboratorio.exe "src\\tp1_laboratorio.o" 
+Info: Nothing to build for tp1_laboratorio
+04:51:54 **** Incremental Build of configuration Debug for project tp1_laboratorio ****
+Info: Internal Builder is used for build
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\tp1_laboratorio.o" "..\\src\\tp1_laboratorio.c" 
+..\src\tp1_laboratorio.c: In function 'main':
+..\src\tp1_laboratorio.c:22:8: warning: variable 'precioAerolineas' set but not used [-Wunused-but-set-variable]
+  float precioAerolineas;
+        ^~~~~~~~~~~~~~~~
+..\src\tp1_laboratorio.c:21:8: warning: variable 'precioLatam' set but not used [-Wunused-but-set-variable]
+  float precioLatam;
+        ^~~~~~~~~~~
+gcc -o tp1_laboratorio.exe "src\\tp1_laboratorio.o" 
+Info: Nothing to build for tp1_laboratorio
+04:52:51 **** Incremental Build of configuration Debug for project tp1_laboratorio ****
+Info: Internal Builder is used for build
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\tp1_laboratorio.o" "..\\src\\tp1_laboratorio.c" 
+..\src\tp1_laboratorio.c: In function 'main':
+..\src\tp1_laboratorio.c:61:5: error: 'else' without a previous 'if'
+     else{
+     ^~~~
+..\src\tp1_laboratorio.c:22:8: warning: variable 'precioAerolineas' set but not used [-Wunused-but-set-variable]
+  float precioAerolineas;
+        ^~~~~~~~~~~~~~~~
+..\src\tp1_laboratorio.c:21:8: warning: variable 'precioLatam' set but not used [-Wunused-but-set-variable]
+  float precioLatam;
+        ^~~~~~~~~~~
+04:53:06 **** Incremental Build of configuration Debug for project tp1_laboratorio ****
+Info: Internal Builder is used for build
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\tp1_laboratorio.o" "..\\src\\tp1_laboratorio.c" 
+..\src\tp1_laboratorio.c: In function 'main':
+..\src\tp1_laboratorio.c:22:8: warning: variable 'precioAerolineas' set but not used [-Wunused-but-set-variable]
+  float precioAerolineas;
+        ^~~~~~~~~~~~~~~~
+..\src\tp1_laboratorio.c:21:8: warning: variable 'precioLatam' set but not used [-Wunused-but-set-variable]
+  float precioLatam;
+        ^~~~~~~~~~~
+gcc -o tp1_laboratorio.exe "src\\tp1_laboratorio.o" 
+04:53:21 **** Incremental Build of configuration Debug for project tp1_laboratorio ****
+Info: Internal Builder is used for build
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\tp1_laboratorio.o" "..\\src\\tp1_laboratorio.c" 
+..\src\tp1_laboratorio.c: In function 'main':
+..\src\tp1_laboratorio.c:22:8: warning: variable 'precioAerolineas' set but not used [-Wunused-but-set-variable]
+  float precioAerolineas;
+        ^~~~~~~~~~~~~~~~
+..\src\tp1_laboratorio.c:21:8: warning: variable 'precioLatam' set but not used [-Wunused-but-set-variable]
+  float precioLatam;
+        ^~~~~~~~~~~
+gcc -o tp1_laboratorio.exe "src\\tp1_laboratorio.o" 
+Info: Nothing to build for tp1_laboratorio
+04:54:47 **** Incremental Build of configuration Debug for project tp1_laboratorio ****
+Info: Internal Builder is used for build
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\tp1_laboratorio.o" "..\\src\\tp1_laboratorio.c" 
+..\src\tp1_laboratorio.c: In function 'main':
+..\src\tp1_laboratorio.c:22:8: warning: variable 'precioAerolineas' set but not used [-Wunused-but-set-variable]
+  float precioAerolineas;
+        ^~~~~~~~~~~~~~~~
+..\src\tp1_laboratorio.c:21:8: warning: variable 'precioLatam' set but not used [-Wunused-but-set-variable]
+  float precioLatam;
+        ^~~~~~~~~~~
+gcc -o tp1_laboratorio.exe "src\\tp1_laboratorio.o" 
+Info: Nothing to build for tp1_laboratorio
+04:55:05 **** Incremental Build of configuration Debug for project tp1_laboratorio ****
+Info: Internal Builder is used for build
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\tp1_laboratorio.o" "..\\src\\tp1_laboratorio.c" 
+..\src\tp1_laboratorio.c: In function 'main':
+..\src\tp1_laboratorio.c:22:8: warning: variable 'precioAerolineas' set but not used [-Wunused-but-set-variable]
+  float precioAerolineas;
+        ^~~~~~~~~~~~~~~~
+..\src\tp1_laboratorio.c:21:8: warning: variable 'precioLatam' set but not used [-Wunused-but-set-variable]
+  float precioLatam;
+        ^~~~~~~~~~~
+gcc -o tp1_laboratorio.exe "src\\tp1_laboratorio.o" 
+04:57:06 **** Incremental Build of configuration Debug for project tp1_laboratorio ****
+Info: Internal Builder is used for build
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\tp1_laboratorio.o" "..\\src\\tp1_laboratorio.c" 
+..\src\tp1_laboratorio.c: In function 'main':
+..\src\tp1_laboratorio.c:22:8: warning: variable 'precioAerolineas' set but not used [-Wunused-but-set-variable]
+  float precioAerolineas;
+        ^~~~~~~~~~~~~~~~
+..\src\tp1_laboratorio.c:21:8: warning: variable 'precioLatam' set but not used [-Wunused-but-set-variable]
+  float precioLatam;
+        ^~~~~~~~~~~
+gcc -o tp1_laboratorio.exe "src\\tp1_laboratorio.o" 
+Info: Nothing to build for tp1_laboratorio
+04:57:32 **** Incremental Build of configuration Debug for project tp1_laboratorio ****
+Info: Internal Builder is used for build
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\tp1_laboratorio.o" "..\\src\\tp1_laboratorio.c" 
+..\src\tp1_laboratorio.c: In function 'main':
+..\src\tp1_laboratorio.c:22:8: warning: variable 'precioAerolineas' set but not used [-Wunused-but-set-variable]
+  float precioAerolineas;
+        ^~~~~~~~~~~~~~~~
+..\src\tp1_laboratorio.c:21:8: warning: variable 'precioLatam' set but not used [-Wunused-but-set-variable]
+  float precioLatam;
+        ^~~~~~~~~~~
+gcc -o tp1_laboratorio.exe "src\\tp1_laboratorio.o" 
+Info: Nothing to build for tp1_laboratorio
+04:57:55 **** Incremental Build of configuration Debug for project tp1_laboratorio ****
+Info: Internal Builder is used for build
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\tp1_laboratorio.o" "..\\src\\tp1_laboratorio.c" 
+..\src\tp1_laboratorio.c: In function 'main':
+..\src\tp1_laboratorio.c:22:8: warning: variable 'precioAerolineas' set but not used [-Wunused-but-set-variable]
+  float precioAerolineas;
+        ^~~~~~~~~~~~~~~~
+..\src\tp1_laboratorio.c:21:8: warning: variable 'precioLatam' set but not used [-Wunused-but-set-variable]
+  float precioLatam;
+        ^~~~~~~~~~~
+gcc -o tp1_laboratorio.exe "src\\tp1_laboratorio.o" 
+Info: Nothing to build for tp1_laboratorio
+Info: Nothing to build for tp1_laboratorio
+04:59:47 **** Incremental Build of configuration Debug for project tp1_laboratorio ****
+Info: Internal Builder is used for build
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\tp1_laboratorio.o" "..\\src\\tp1_laboratorio.c" 
+..\src\tp1_laboratorio.c: In function 'main':
+..\src\tp1_laboratorio.c:22:8: warning: variable 'precioAerolineas' set but not used [-Wunused-but-set-variable]
+  float precioAerolineas;
+        ^~~~~~~~~~~~~~~~
+..\src\tp1_laboratorio.c:21:8: warning: variable 'precioLatam' set but not used [-Wunused-but-set-variable]
+  float precioLatam;
+        ^~~~~~~~~~~
+gcc -o tp1_laboratorio.exe "src\\tp1_laboratorio.o" 
+05:03:29 **** Incremental Build of configuration Debug for project tp1_laboratorio ****
+Info: Internal Builder is used for build
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\tp1_laboratorio.o" "..\\src\\tp1_laboratorio.c" 
+..\src\tp1_laboratorio.c: In function 'main':
+..\src\tp1_laboratorio.c:22:8: warning: variable 'precioAerolineas' set but not used [-Wunused-but-set-variable]
+  float precioAerolineas;
+        ^~~~~~~~~~~~~~~~
+..\src\tp1_laboratorio.c:21:8: warning: variable 'precioLatam' set but not used [-Wunused-but-set-variable]
+  float precioLatam;
+        ^~~~~~~~~~~
+gcc -o tp1_laboratorio.exe "src\\tp1_laboratorio.o" 
+05:12:08 **** Incremental Build of configuration Debug for project tp1_laboratorio ****
+Info: Internal Builder is used for build
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\tp1_laboratorio.o" "..\\src\\tp1_laboratorio.c" 
+..\src\tp1_laboratorio.c: In function 'main':
+..\src\tp1_laboratorio.c:22:8: warning: variable 'precioAerolineas' set but not used [-Wunused-but-set-variable]
+  float precioAerolineas;
+        ^~~~~~~~~~~~~~~~
+..\src\tp1_laboratorio.c:21:8: warning: variable 'precioLatam' set but not used [-Wunused-but-set-variable]
+  float precioLatam;
+        ^~~~~~~~~~~
+gcc -o tp1_laboratorio.exe "src\\tp1_laboratorio.o" 
+Info: Nothing to build for tp1_laboratorio
+05:12:56 **** Incremental Build of configuration Debug for project tp1_laboratorio ****
+Info: Internal Builder is used for build
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\tp1_laboratorio.o" "..\\src\\tp1_laboratorio.c" 
+..\src\tp1_laboratorio.c: In function 'main':
+..\src\tp1_laboratorio.c:22:8: warning: variable 'precioAerolineas' set but not used [-Wunused-but-set-variable]
+  float precioAerolineas;
+        ^~~~~~~~~~~~~~~~
+..\src\tp1_laboratorio.c:21:8: warning: variable 'precioLatam' set but not used [-Wunused-but-set-variable]
+  float precioLatam;
+        ^~~~~~~~~~~
+gcc -o tp1_laboratorio.exe "src\\tp1_laboratorio.o" 
+Info: Nothing to build for tp1_laboratorio
+05:14:51 **** Incremental Build of configuration Debug for project tp1_laboratorio ****
+Info: Internal Builder is used for build
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\tp1_laboratorio.o" "..\\src\\tp1_laboratorio.c" 
+..\src\tp1_laboratorio.c: In function 'main':
+..\src\tp1_laboratorio.c:22:8: warning: variable 'precioAerolineas' set but not used [-Wunused-but-set-variable]
+  float precioAerolineas;
+        ^~~~~~~~~~~~~~~~
+..\src\tp1_laboratorio.c:21:8: warning: variable 'precioLatam' set but not used [-Wunused-but-set-variable]
+  float precioLatam;
+        ^~~~~~~~~~~
+gcc -o tp1_laboratorio.exe "src\\tp1_laboratorio.o" 
+05:16:58 **** Incremental Build of configuration Debug for project tp1_laboratorio ****
+Info: Internal Builder is used for build
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\tp1_laboratorio.o" "..\\src\\tp1_laboratorio.c" 
+..\src\tp1_laboratorio.c: In function 'main':
+..\src\tp1_laboratorio.c:22:8: warning: variable 'precioAerolineas' set but not used [-Wunused-but-set-variable]
+  float precioAerolineas;
+        ^~~~~~~~~~~~~~~~
+..\src\tp1_laboratorio.c:21:8: warning: variable 'precioLatam' set but not used [-Wunused-but-set-variable]
+  float precioLatam;
+        ^~~~~~~~~~~
+gcc -o tp1_laboratorio.exe "src\\tp1_laboratorio.o" 
+Info: Nothing to build for tp1_laboratorio
+05:17:30 **** Incremental Build of configuration Debug for project tp1_laboratorio ****
+Info: Internal Builder is used for build
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\tp1_laboratorio.o" "..\\src\\tp1_laboratorio.c" 
+..\src\tp1_laboratorio.c: In function 'main':
+..\src\tp1_laboratorio.c:22:8: warning: variable 'precioAerolineas' set but not used [-Wunused-but-set-variable]
+  float precioAerolineas;
+        ^~~~~~~~~~~~~~~~
+..\src\tp1_laboratorio.c:21:8: warning: variable 'precioLatam' set but not used [-Wunused-but-set-variable]
+  float precioLatam;
+        ^~~~~~~~~~~
+gcc -o tp1_laboratorio.exe "src\\tp1_laboratorio.o" 
+Info: Nothing to build for tp1_laboratorio
+05:18:45 **** Incremental Build of configuration Debug for project tp1_laboratorio ****
+Info: Internal Builder is used for build
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\tp1_laboratorio.o" "..\\src\\tp1_laboratorio.c" 
+..\src\tp1_laboratorio.c: In function 'main':
+..\src\tp1_laboratorio.c:81:13: warning: format '%c' expects argument of type 'char *', but argument 2 has type 'int *' [-Wformat=]
+     scanf("%c",&decision);
+             ^
+..\src\tp1_laboratorio.c:22:8: warning: variable 'precioAerolineas' set but not used [-Wunused-but-set-variable]
+  float precioAerolineas;
+        ^~~~~~~~~~~~~~~~
+..\src\tp1_laboratorio.c:21:8: warning: variable 'precioLatam' set but not used [-Wunused-but-set-variable]
+  float precioLatam;
+        ^~~~~~~~~~~
+gcc -o tp1_laboratorio.exe "src\\tp1_laboratorio.o" 
+05:18:59 **** Incremental Build of configuration Debug for project tp1_laboratorio ****
+Info: Internal Builder is used for build
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\tp1_laboratorio.o" "..\\src\\tp1_laboratorio.c" 
+..\src\tp1_laboratorio.c: In function 'main':
+..\src\tp1_laboratorio.c:22:8: warning: variable 'precioAerolineas' set but not used [-Wunused-but-set-variable]
+  float precioAerolineas;
+        ^~~~~~~~~~~~~~~~
+..\src\tp1_laboratorio.c:21:8: warning: variable 'precioLatam' set but not used [-Wunused-but-set-variable]
+  float precioLatam;
+        ^~~~~~~~~~~
+gcc -o tp1_laboratorio.exe "src\\tp1_laboratorio.o" 
+Info: Nothing to build for tp1_laboratorio
+Info: Nothing to build for tp1_laboratorio
+Info: Nothing to build for tp1_laboratorio
+05:20:33 **** Incremental Build of configuration Debug for project tp1_laboratorio ****
+Info: Internal Builder is used for build
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\tp1_laboratorio.o" "..\\src\\tp1_laboratorio.c" 
+..\src\tp1_laboratorio.c: In function 'main':
+..\src\tp1_laboratorio.c:22:8: warning: variable 'precioAerolineas' set but not used [-Wunused-but-set-variable]
+  float precioAerolineas;
+        ^~~~~~~~~~~~~~~~
+..\src\tp1_laboratorio.c:21:8: warning: variable 'precioLatam' set but not used [-Wunused-but-set-variable]
+  float precioLatam;
+        ^~~~~~~~~~~
+gcc -o tp1_laboratorio.exe "src\\tp1_laboratorio.o" 
+c:/mingw/bin/../lib/gcc/mingw32/6.3.0/../../../../mingw32/bin/ld.exe: cannot open output file tp1_laboratorio.exe: Permission denied
+collect2.exe: error: ld returned 1 exit status
+05:20:53 **** Incremental Build of configuration Debug for project tp1_laboratorio ****
+Info: Internal Builder is used for build
+gcc -o tp1_laboratorio.exe "src\\tp1_laboratorio.o" 
+c:/mingw/bin/../lib/gcc/mingw32/6.3.0/../../../../mingw32/bin/ld.exe: cannot open output file tp1_laboratorio.exe: Permission denied
+collect2.exe: error: ld returned 1 exit status
+05:20:56 **** Incremental Build of configuration Debug for project tp1_laboratorio ****
+Info: Internal Builder is used for build
+gcc -o tp1_laboratorio.exe "src\\tp1_laboratorio.o" 
+Info: Nothing to build for tp1_laboratorio
+05:21:35 **** Incremental Build of configuration Debug for project tp1_laboratorio ****
+Info: Internal Builder is used for build
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\tp1_laboratorio.o" "..\\src\\tp1_laboratorio.c" 
+..\src\tp1_laboratorio.c: In function 'main':
+..\src\tp1_laboratorio.c:22:8: warning: variable 'precioAerolineas' set but not used [-Wunused-but-set-variable]
+  float precioAerolineas;
+        ^~~~~~~~~~~~~~~~
+..\src\tp1_laboratorio.c:21:8: warning: variable 'precioLatam' set but not used [-Wunused-but-set-variable]
+  float precioLatam;
+        ^~~~~~~~~~~
+gcc -o tp1_laboratorio.exe "src\\tp1_laboratorio.o" 
+Info: Nothing to build for tp1_laboratorio
+Info: Nothing to build for tp1_laboratorio
+Info: Nothing to build for tp1_laboratorio
+05:24:23 **** Incremental Build of configuration Debug for project tp1_laboratorio ****
+Info: Internal Builder is used for build
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\tp1_laboratorio.o" "..\\src\\tp1_laboratorio.c" 
+..\src\tp1_laboratorio.c: In function 'main':
+..\src\tp1_laboratorio.c:22:8: warning: variable 'precioAerolineas' set but not used [-Wunused-but-set-variable]
+  float precioAerolineas;
+        ^~~~~~~~~~~~~~~~
+..\src\tp1_laboratorio.c:21:8: warning: variable 'precioLatam' set but not used [-Wunused-but-set-variable]
+  float precioLatam;
+        ^~~~~~~~~~~
+gcc -o tp1_laboratorio.exe "src\\tp1_laboratorio.o" 
+Info: Nothing to build for tp1_laboratorio
+05:26:24 **** Incremental Build of configuration Debug for project tp1_laboratorio ****
+Info: Internal Builder is used for build
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\tp1_laboratorio.o" "..\\src\\tp1_laboratorio.c" 
+..\src\tp1_laboratorio.c: In function 'main':
+..\src\tp1_laboratorio.c:22:8: warning: variable 'precioAerolineas' set but not used [-Wunused-but-set-variable]
+  float precioAerolineas;
+        ^~~~~~~~~~~~~~~~
+..\src\tp1_laboratorio.c:21:8: warning: variable 'precioLatam' set but not used [-Wunused-but-set-variable]
+  float precioLatam;
+        ^~~~~~~~~~~
+gcc -o tp1_laboratorio.exe "src\\tp1_laboratorio.o" 
+Info: Nothing to build for tp1_laboratorio
+05:27:28 **** Incremental Build of configuration Debug for project tp1_laboratorio ****
+Info: Internal Builder is used for build
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\tp1_laboratorio.o" "..\\src\\tp1_laboratorio.c" 
+..\src\tp1_laboratorio.c: In function 'main':
+..\src\tp1_laboratorio.c:22:8: warning: variable 'precioAerolineas' set but not used [-Wunused-but-set-variable]
+  float precioAerolineas;
+        ^~~~~~~~~~~~~~~~
+..\src\tp1_laboratorio.c:21:8: warning: variable 'precioLatam' set but not used [-Wunused-but-set-variable]
+  float precioLatam;
+        ^~~~~~~~~~~
+gcc -o tp1_laboratorio.exe "src\\tp1_laboratorio.o" 
+Info: Nothing to build for tp1_laboratorio
+15:21:05 **** Incremental Build of configuration Debug for project tp1_laboratorio ****
+Info: Internal Builder is used for build
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\tp1_laboratorio.o" "..\\src\\tp1_laboratorio.c" 
+..\src\tp1_laboratorio.c: In function 'main':
+..\src\tp1_laboratorio.c:94:31: error: too few arguments to function 'precioUnitario'
+      precioAerolineasUnitario=precioUnitario(precioAerolineas);
+                               ^~~~~~~~~~~~~~
+..\src\tp1_laboratorio.c:19:7: note: declared here
+ float precioUnitario(float precio, float kms);
+       ^~~~~~~~~~~~~~
+..\src\tp1_laboratorio.c:95:26: error: too few arguments to function 'precioUnitario'
+      precioLatamUnitario=precioUnitario(precioLatam);
+                          ^~~~~~~~~~~~~~
+..\src\tp1_laboratorio.c:19:7: note: declared here
+ float precioUnitario(float precio, float kms);
+       ^~~~~~~~~~~~~~
+15:23:31 **** Incremental Build of configuration Debug for project tp1_laboratorio ****
+Info: Internal Builder is used for build
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\tp1_laboratorio.o" "..\\src\\tp1_laboratorio.c" 
+gcc -o tp1_laboratorio.exe "src\\tp1_laboratorio.o" 
+Info: Nothing to build for tp1_laboratorio
+15:27:33 **** Incremental Build of configuration Debug for project tp1_laboratorio ****
+Info: Internal Builder is used for build
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\tp1_laboratorio.o" "..\\src\\tp1_laboratorio.c" 
+gcc -o tp1_laboratorio.exe "src\\tp1_laboratorio.o" 
+Info: Nothing to build for tp1_laboratorio
+15:27:59 **** Incremental Build of configuration Debug for project tp1_laboratorio ****
+Info: Internal Builder is used for build
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\tp1_laboratorio.o" "..\\src\\tp1_laboratorio.c" 
+gcc -o tp1_laboratorio.exe "src\\tp1_laboratorio.o" 
+Info: Nothing to build for tp1_laboratorio
+Info: Nothing to build for tp1_laboratorio
+Info: Nothing to build for tp1_laboratorio
+15:30:30 **** Incremental Build of configuration Debug for project tp1_laboratorio ****
+Info: Internal Builder is used for build
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\tp1_laboratorio.o" "..\\src\\tp1_laboratorio.c" 
+gcc -o tp1_laboratorio.exe "src\\tp1_laboratorio.o" 
+c:/mingw/bin/../lib/gcc/mingw32/6.3.0/../../../../mingw32/bin/ld.exe: cannot open output file tp1_laboratorio.exe: Permission denied
+collect2.exe: error: ld returned 1 exit status
+15:30:55 **** Incremental Build of configuration Debug for project tp1_laboratorio ****
+Info: Internal Builder is used for build
+gcc -o tp1_laboratorio.exe "src\\tp1_laboratorio.o" 
+Info: Nothing to build for tp1_laboratorio
+15:32:44 **** Incremental Build of configuration Debug for project tp1_laboratorio ****
+Info: Internal Builder is used for build
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\tp1_laboratorio.o" "..\\src\\tp1_laboratorio.c" 
+gcc -o tp1_laboratorio.exe "src\\tp1_laboratorio.o" 
+Info: Nothing to build for tp1_laboratorio
+15:34:21 **** Incremental Build of configuration Debug for project tp1_laboratorio ****
+Info: Internal Builder is used for build
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\tp1_laboratorio.o" "..\\src\\tp1_laboratorio.c" 
+gcc -o tp1_laboratorio.exe "src\\tp1_laboratorio.o" 
+Info: Nothing to build for tp1_laboratorio
+Info: Nothing to build for tp1_laboratorio
+15:38:21 **** Incremental Build of configuration Debug for project tp1_laboratorio ****
+Info: Internal Builder is used for build
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\tp1_laboratorio.o" "..\\src\\tp1_laboratorio.c" 
+gcc -o tp1_laboratorio.exe "src\\tp1_laboratorio.o" 
+Info: Nothing to build for tp1_laboratorio
+15:39:03 **** Incremental Build of configuration Debug for project tp1_laboratorio ****
+Info: Internal Builder is used for build
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\tp1_laboratorio.o" "..\\src\\tp1_laboratorio.c" 
+gcc -o tp1_laboratorio.exe "src\\tp1_laboratorio.o" 
+c:/mingw/bin/../lib/gcc/mingw32/6.3.0/../../../../mingw32/bin/ld.exe: cannot open output file tp1_laboratorio.exe: Permission denied
+collect2.exe: error: ld returned 1 exit status
+15:39:09 **** Incremental Build of configuration Debug for project tp1_laboratorio ****
+Info: Internal Builder is used for build
+gcc -o tp1_laboratorio.exe "src\\tp1_laboratorio.o" 
+Info: Nothing to build for tp1_laboratorio
+Info: Nothing to build for tp1_laboratorio
+15:41:26 **** Incremental Build of configuration Debug for project tp1_laboratorio ****
+Info: Internal Builder is used for build
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\tp1_laboratorio.o" "..\\src\\tp1_laboratorio.c" 
+gcc -o tp1_laboratorio.exe "src\\tp1_laboratorio.o" 
+Info: Nothing to build for tp1_laboratorio
+15:44:32 **** Incremental Build of configuration Debug for project tp1_laboratorio ****
+Info: Internal Builder is used for build
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\tp1_laboratorio.o" "..\\src\\tp1_laboratorio.c" 
+gcc -o tp1_laboratorio.exe "src\\tp1_laboratorio.o" 
+Info: Nothing to build for tp1_laboratorio
+15:46:24 **** Incremental Build of configuration Debug for project tp1_laboratorio ****
+Info: Internal Builder is used for build
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\tp1_laboratorio.o" "..\\src\\tp1_laboratorio.c" 
+gcc -o tp1_laboratorio.exe "src\\tp1_laboratorio.o" 
+Info: Nothing to build for tp1_laboratorio
+Info: Nothing to build for tp1_laboratorio
+15:49:48 **** Incremental Build of configuration Debug for project tp1_laboratorio ****
+Info: Internal Builder is used for build
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\tp1_laboratorio.o" "..\\src\\tp1_laboratorio.c" 
+..\src\tp1_laboratorio.c: In function 'main':
+..\src\tp1_laboratorio.c:140:26: error: expected ')' before ';' token
+      scanf("%d",&decision;)
+                          ^
+..\src\tp1_laboratorio.c:141:5: error: expected ';' before '}' token
+     }
+     ^
+15:50:09 **** Incremental Build of configuration Debug for project tp1_laboratorio ****
+Info: Internal Builder is used for build
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\tp1_laboratorio.o" "..\\src\\tp1_laboratorio.c" 
+gcc -o tp1_laboratorio.exe "src\\tp1_laboratorio.o" 
+Info: Nothing to build for tp1_laboratorio
+15:51:21 **** Incremental Build of configuration Debug for project tp1_laboratorio ****
+Info: Internal Builder is used for build
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\tp1_laboratorio.o" "..\\src\\tp1_laboratorio.c" 
+gcc -o tp1_laboratorio.exe "src\\tp1_laboratorio.o" 
+Info: Nothing to build for tp1_laboratorio
+Info: Nothing to build for tp1_laboratorio
+16:10:04 **** Incremental Build of configuration Debug for project tp1_laboratorio ****
+Info: Internal Builder is used for build
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\tp1_laboratorio.o" "..\\src\\tp1_laboratorio.c" 
+..\src\tp1_laboratorio.c: In function 'main':
+..\src\tp1_laboratorio.c:145:6: warning: implicit declaration of function 'prinft' [-Wimplicit-function-declaration]
+      prinft("Para un nuevo viaje ingrese 1, para datos forzados ingrese 5\n");
+      ^~~~~~
+gcc -o tp1_laboratorio.exe "src\\tp1_laboratorio.o" 
+src\tp1_laboratorio.o: In function `main':
+C:\Users\fx\eclipse-workspace\tp1_laboratorio\Debug/../src/tp1_laboratorio.c:145: undefined reference to `prinft'
+collect2.exe: error: ld returned 1 exit status
+16:10:16 **** Incremental Build of configuration Debug for project tp1_laboratorio ****
+Info: Internal Builder is used for build
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\tp1_laboratorio.o" "..\\src\\tp1_laboratorio.c" 
+gcc -o tp1_laboratorio.exe "src\\tp1_laboratorio.o" 
+Info: Nothing to build for tp1_laboratorio
+16:11:43 **** Incremental Build of configuration Debug for project tp1_laboratorio ****
+Info: Internal Builder is used for build
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\tp1_laboratorio.o" "..\\src\\tp1_laboratorio.c" 
+gcc -o tp1_laboratorio.exe "src\\tp1_laboratorio.o" 
+Info: Nothing to build for tp1_laboratorio
+16:13:45 **** Incremental Build of configuration Debug for project tp1_laboratorio ****
+Info: Internal Builder is used for build
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\tp1_laboratorio.o" "..\\src\\tp1_laboratorio.c" 
+gcc -o tp1_laboratorio.exe "src\\tp1_laboratorio.o" 
+Info: Nothing to build for tp1_laboratorio
+16:23:03 **** Incremental Build of configuration Debug for project tp1_laboratorio ****
+Info: Internal Builder is used for build
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\tp1_laboratorio.o" "..\\src\\tp1_laboratorio.c" 
+gcc -o tp1_laboratorio.exe "src\\tp1_laboratorio.o" 
+16:28:18 **** Incremental Build of configuration Debug for project tp1_laboratorio ****
+Info: Internal Builder is used for build
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\tp1_laboratorio.o" "..\\src\\tp1_laboratorio.c" 
+gcc -o tp1_laboratorio.exe "src\\tp1_laboratorio.o" 
+Info: Nothing to build for tp1_laboratorio
+Info: Nothing to build for tp1_laboratorio
+17:50:04 **** Incremental Build of configuration Debug for project tp1_laboratorio ****
+Info: Internal Builder is used for build
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\muestreo.o" "..\\src\\muestreo.c" 
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\tp1_laboratorio.o" "..\\src\\tp1_laboratorio.c" 
+..\src\tp1_laboratorio.c: In function 'main':
+..\src\tp1_laboratorio.c:47:9: warning: implicit declaration of function 'tomarOpcion' [-Wimplicit-function-declaration]
+  opcion=tomarOpcion(); // Esta funcion toma y valida una opcion del 1 al 6.
+         ^~~~~~~~~~~
+..\src\tp1_laboratorio.c:56:16: warning: implicit declaration of function 'pedirValorPositivo' [-Wimplicit-function-declaration]
+     kilometros=pedirValorPositivo(); // Con esta funcion pido y valido numeros flotantes usados para los km o precios.
+                ^~~~~~~~~~~~~~~~~~
+..\src\tp1_laboratorio.c:80:29: warning: implicit declaration of function 'descuentoDebito' [-Wimplicit-function-declaration]
+      precioAerolineasDebito=descuentoDebito(precioAerolineas);
+                             ^~~~~~~~~~~~~~~
+..\src\tp1_laboratorio.c:82:30: warning: implicit declaration of function 'interesCredito' [-Wimplicit-function-declaration]
+      precioAerolineasCredito=interesCredito(precioAerolineas);
+                              ^~~~~~~~~~~~~~
+..\src\tp1_laboratorio.c:84:26: warning: implicit declaration of function 'precioBitcoin' [-Wimplicit-function-declaration]
+      precioAerolineasBtc=precioBitcoin(precioAerolineas);
+                          ^~~~~~~~~~~~~
+..\src\tp1_laboratorio.c:86:31: warning: implicit declaration of function 'precioUnitario' [-Wimplicit-function-declaration]
+      precioAerolineasUnitario=precioUnitario(precioAerolineas,kilometros);
+                               ^~~~~~~~~~~~~~
+..\src\tp1_laboratorio.c:88:25: warning: implicit declaration of function 'diferencia' [-Wimplicit-function-declaration]
+      diferenciaDePrecio=diferencia(precioAerolineas,precioLatam);
+                         ^~~~~~~~~~
+..\src\tp1_laboratorio.c:105:6: warning: implicit declaration of function 'mostrar' [-Wimplicit-function-declaration]
+      mostrar(precioAerolineasDebito,precioAerolineasCredito,precioAerolineasBtc,precioAerolineasUnitario);
+      ^~~~~~~
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\calculos.o" "..\\src\\calculos.c" 
+gcc -o tp1_laboratorio.exe "src\\calculos.o" "src\\muestreo.o" "src\\tp1_laboratorio.o" 
+17:51:13 **** Incremental Build of configuration Debug for project tp1_laboratorio ****
+Info: Internal Builder is used for build
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\tp1_laboratorio.o" "..\\src\\tp1_laboratorio.c" 
+gcc -o tp1_laboratorio.exe "src\\calculos.o" "src\\muestreo.o" "src\\tp1_laboratorio.o" 
+Info: Nothing to build for tp1_laboratorio
+18:33:27 **** Incremental Build of configuration Debug for project tp1_laboratorio ****
+Info: Internal Builder is used for build
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\tp1_laboratorio.o" "..\\src\\tp1_laboratorio.c" 
+gcc -o tp1_laboratorio.exe "src\\calculos.o" "src\\muestreo.o" "src\\tp1_laboratorio.o" 
+18:44:26 **** Incremental Build of configuration Debug for project tp1_laboratorio ****
+Info: Internal Builder is used for build
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\tp1_laboratorio.o" "..\\src\\tp1_laboratorio.c" 
+gcc -o tp1_laboratorio.exe "src\\calculos.o" "src\\muestreo.o" "src\\tp1_laboratorio.o" 
+Info: Nothing to build for tp1_laboratorio
+19:19:33 **** Rebuild of configuration Debug for project TP_1 ****
+Info: Internal Builder is used for build
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\muestreo.o" "..\\src\\muestreo.c" 
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\calculos.o" "..\\src\\calculos.c" 
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\tp1_laboratorio.o" "..\\src\\tp1_laboratorio.c" 
+gcc -o TP_1.exe "src\\calculos.o" "src\\muestreo.o" "src\\tp1_laboratorio.o" 
+Info: Nothing to build for TP_1
