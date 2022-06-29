@@ -1,12 +1,14 @@
 
 #include <stdio.h>
 #include <stdlib.h>
+#include "input.h"
 
 
 int tomarOpcion(){
 	int numero;
 
-	printf("Elija una opcion del 1 al 6\n\n");
+	printf("\n\nElija una opcion del 1 al 6:\n");
+	printf("----------------------------\n");
 	printf("Opcion 1:Ingrese los kilometros del viaje\n");
 	printf("Opcion 2:Ingrese el precio segun que tipo de aerolinea\n");
 	printf("Opcion 3:Ingrese para calcular todos los costos\n");
@@ -14,10 +16,10 @@ int tomarOpcion(){
 	printf("Opcion 5:Ingrese para la carga forzada de datos\n");
 	printf("Opcion 6:Ingrese aqui para salir del programa\n");
 
-	scanf("%d",&numero);
+	numero=getInt("");
 	while(numero<1 || numero>6){
 			printf("Opcion incorrecta, vuelva a elegir una del 1 a 6 posibles\n");
-			scanf("%d",&numero);
+			numero=getInt("");
 
 	}
 	return numero;

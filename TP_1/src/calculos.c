@@ -1,14 +1,15 @@
 
 #include <stdio.h>
 #include <stdlib.h>
+#include "input.h"
 
-float pedirValorPositivo(){
+float pedirValorPositivo(char mensaje[]){
 	float valor;
 
-	scanf("%f",&valor);
+	valor=getFloat(mensaje);
 	while(valor<1){
 		printf("Valor incorrecto, vuelva a ingresar: ");
-		scanf("%f",&valor);
+		valor=getFloat(mensaje);
 	}
 
 	return valor;
